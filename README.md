@@ -3,7 +3,7 @@ MyBatis3的代码自动生成工具，简单实用，java，for PostgreSQL。优
 * 配置使用简单
 * 根据数据库脚本批量生成model、dao、dao.xml、service、service.impl以及基础的增删改查分页的业务代码模板
 * 将数据脚本中的注释完美地嵌入代码中。
-* 本项目还有 For MySQL 的版本，详见：[MyBatis3AutoCode](https://gitee.com/tommygun/MyBatis3AutoCode)
+* 本项目还有 For MySQL 的版本，详见：[MyBatis3AutoCode](https://github.com/bookool/MyBatis3AutoCode)
 
 ## 使用方法
 ### 1、生成数据库脚本
